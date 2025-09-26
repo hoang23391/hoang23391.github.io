@@ -7,6 +7,7 @@ unrulymedia.com, 7093244032824963982, RESELLER
 rhythmone.com, 962111114, RESELLER, a670c89d4a324e47
 #Premium Programmatic Demand by publisher@greedygame.com
 greedygame.com, 3055722897079350, DIRECT
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 appnexus.com, 12941, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12752, RESELLER, f5ab79cb980f11d1
